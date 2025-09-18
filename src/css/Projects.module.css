@@ -1,0 +1,30 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+}
+
+.card {
+  background-color: #f9f9f9;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}
+
+.title {
+  font-weight: bold;
+  font-size: 1.1rem;
+  text-decoration: underline;
+  color: #1a1a1a;
+}
+
+.description {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+  color: #333;
+}

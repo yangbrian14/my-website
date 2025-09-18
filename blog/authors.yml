@@ -1,25 +1,18 @@
 yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
+  name: Brian Yang
+  title: Technical Writer
+  url: https://yangbrian14.wixsite.com/tech-writing
+  image_url: https://raw.githubusercontent.com/yangbrian14/image/main/10741536912_IMG_0254.jpg
   page: true
   socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
+    linkedin: https://www.linkedin.com/in/brian-yang-1b4bb399
 
 slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+  name: Brian Yang
+  title: Technical Writer
+  url: https://yangbrian14.wixsite.com/tech-writing
+  image_url: https://raw.githubusercontent.com/yangbrian14/image/main/10741536912_IMG_0254.jpg
+  page: true
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    linkedin: https://www.linkedin.com/in/brian-yang-1b4bb399
+    portfolio: https://yangbrian14.wixsite.com/tech-writing
