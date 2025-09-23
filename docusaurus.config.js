@@ -104,7 +104,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: 'src\pages\Projects.js',
+                to: 'src\pages\Projects',
               },
             ],
           },
