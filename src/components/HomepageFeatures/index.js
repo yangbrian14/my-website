@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Hello',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/me.svg').default,
     description: (
       <>
         Technical Writer with 5+ years of experience creating User Manuals, 
