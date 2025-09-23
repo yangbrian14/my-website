@@ -103,8 +103,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: 'src\pages\Projects',
+                label: 'Writing Samples',
+                to: '/Projects',
               },
             ],
           },
