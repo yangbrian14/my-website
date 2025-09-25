@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: <a href="blog">Blogs</a>,
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/blogging.svg').default,
     description: (
       <>
         Here, you'll find random short stories and blogs I wrote. 
