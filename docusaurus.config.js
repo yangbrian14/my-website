@@ -84,7 +84,7 @@ const config = {
         title: 'My Site',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/dino_stairs_logo.svg',
+          src: 'img/logo.svg',
         },
         items: [
           {
