@@ -18,7 +18,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Here are a few examples I have that displays my documentations and technical writing skills.
+        Here are a few examples I have that display my documentation and technical writing skills.
       </>
     ),
   },
@@ -27,9 +27,9 @@ const FeatureList = [
     Svg: require('@site/static/img/blogging.svg').default,
     description: (
       <>
-        Here, you'll find random short stories and blogs I wrote. 
-        This is to help keep my writing skills sharp and to entertain 
-        anyone who cares enough to read.
+        Here, you'll find the random short stories and blogs I have written. 
+        This is to help keep my writing skills sharp and to entertain anyone who 
+        cares enough to read.
       </>
     ),
   },
