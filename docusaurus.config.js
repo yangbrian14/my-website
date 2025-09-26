@@ -121,6 +121,15 @@ const config = {
               },
             ],
           },
+          {
+            title: 'Contact',
+            items: [
+              {
+                label: 'Email Me',
+                href: 'mailto:yangbrian14@gmail.com',
+              }
+            ]
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
