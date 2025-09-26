@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Covenant Path Progress
 
 The [**Covenant Path Progress**](https://www.churchofjesuschrist.org/tools/help/covenant-path-progress-report?lang=eng) is a tracking tool used by leaders to monitor new and returning members, and people being taught by missionaries. It’s a report available through the [**Member Tools App**](https://www.churchofjesuschrist.org/tools/help/about-member-tools?lang=eng). 
