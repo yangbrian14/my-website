@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: "Hi, I'm Brian",
   tagline: "I'm a Technical Writer",
-  favicon: 'img/favicon.ico',
+  favicon: 'img/dino_favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
