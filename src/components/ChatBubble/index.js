@@ -15,7 +15,7 @@ export default function ChatBubble() {
     setMessages(newMessages);
     setInput("");
 
-    const res = await fetch("/api/chat", {
+    const res = await fetch("/api/chat.js", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ messages: newMessages }),
