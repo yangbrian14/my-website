@@ -15,7 +15,7 @@ export default function ChatBubble() {
     setMessages(newMessages);
     setInput("");
 
-    const res = await fetch("/api/chat", {
+    const res = await fetch("https://my-website-vert-eight.vercel.app/api/chat", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ messages: newMessages }),
