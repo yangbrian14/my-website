@@ -66,6 +66,9 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+        pages: {
+          exclude: ['**/vercel/**'],
+        },
       }),
     ],
   ],
